@@ -1,0 +1,2 @@
+Ostertermin.py berechnet den westlichen und den orthodoxen Ostertermin zu einem gegebenen Basisjahr. 
+Feiertage.py berechnet die beweglichen Feiertage in einem Jahr.
